@@ -1,3 +1,5 @@
+[![TODO board](https://imdone.io/api/1.0/projects/5be051e4a792373c15910344/badge)](https://imdone.io/app#/board/Chamawix/PyRBML)
+
 #Introduction
 This project has for goal to provide a simple, fast, modulable tool to produce rule based machine learning in text processing task.
 
