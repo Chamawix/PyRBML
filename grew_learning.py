@@ -1,1 +1,1 @@
-import grew
+from src.grew_model import *

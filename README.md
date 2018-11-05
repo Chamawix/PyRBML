@@ -8,6 +8,8 @@ This project has for goal to provide a simple, fast, modulable tool to produce r
 setuptools install
 
 #Usage
+
+
 ##Learning a new model
 
 pyrbml learn --data <file of data> --labels <index of labels tabel in the data> --out <folder of modeling>
