@@ -1,28 +1,9 @@
 {
-  "noHelp": true,
-  "sync": {
-    "id": "5be051e4a792373c15910344",
-    "name": "Chamawix/PyRBML",
-    "useImdoneioForPriority": true
-  },
-  "marked": {
-    "gfm": true,
-    "tables": true,
-    "breaks": false,
-    "pedantic": false,
-    "smartLists": true,
-    "langPrefix": "language-"
-  },
-  "lists": [
-    {
-      "hidden": false,
-      "name": "TODO"
-    },
-    {
-      "name": "DONE",
-      "hidden": false
-    }
+  "exclude": [
+    "^(node_modules|bower_components|\\.imdone|target|build|dist|logs|flow-typed|imdone-export.json)[\\/\\\\]?|\\.(git|svn|hg|npmignore)|\\~$|\\.(jpg|png|gif|swp|ttf|otf)$"
   ],
+  "watcher": true,
+  "keepEmptyPriority": false,
   "code": {
     "include_lists": [
       "TODO",
@@ -42,9 +23,28 @@
       "BLOP"
     ]
   },
-  "keepEmptyPriority": false,
-  "watcher": true,
-  "exclude": [
-    "^(node_modules|bower_components|\\.imdone|target|build|dist|logs|flow-typed|imdone-export.json)[\\/\\\\]?|\\.(git|svn|hg|npmignore)|\\~$|\\.(jpg|png|gif|swp|ttf|otf)$"
-  ]
+  "lists": [
+    {
+      "hidden": false,
+      "name": "TODO"
+    },
+    {
+      "name": "DONE",
+      "hidden": false
+    }
+  ],
+  "marked": {
+    "gfm": true,
+    "tables": true,
+    "breaks": false,
+    "pedantic": false,
+    "smartLists": true,
+    "langPrefix": "language-"
+  },
+  "sync": {
+    "id": "5be051e4a792373c15910344",
+    "name": "Chamawix/PyRBML",
+    "useImdoneioForPriority": true
+  },
+  "noHelp": true
 }

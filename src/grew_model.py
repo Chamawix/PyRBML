@@ -1,4 +1,8 @@
 #TODO: Grew model id:0
+# ----
+# <https://github.com/Chamawix/PyRBML/issues/3>
+# Atlas TheGolden
+# atlas@imdone.io
 
 import spacy
 
