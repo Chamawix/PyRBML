@@ -15,11 +15,11 @@
   },
   "lists": [
     {
-      "name": "BLOP",
+      "name": "HELP",
       "hidden": false
     },
     {
-      "name": "HELP",
+      "name": "BLOP",
       "hidden": false
     }
   ],
