@@ -15,8 +15,8 @@
   },
   "lists": [
     {
-      "hidden": false,
-      "name": "HELP"
+      "name": "HELP",
+      "hidden": false
     },
     {
       "name": "BLOP",
